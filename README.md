@@ -1,0 +1,1 @@
+# Testowanie-losowosci-ciagow-z_QRNG
