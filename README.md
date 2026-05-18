@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/drive/1NBR7hV4P1m6H3ycH170iI0GABIvdsFzi))
+[![Open In Colab](https://colab.research.google.com/drive/1NBR7hV4P1m6H3ycH170iI0GABIvdsFzi)]
 # Testowanie losowości ciągów generowanych przez QRNG
 
 **Autor:** Grzegorz Ciapa  
